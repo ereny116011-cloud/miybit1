@@ -10,7 +10,7 @@ http.createServer((req, res) => {
 
 // 2. BOT AYARLARI
 const bot = mineflayer.createBot({
-    host: 'epicstrike.mcsh.io',
+    host: 'turbolumc.aternos.me',
     username: 'doblofar',
     version: '1.21.11', // 1.21.1 olarak ayarlandı
     viewDistance: 'tiny',
